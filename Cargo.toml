@@ -18,3 +18,5 @@ keywords = ["fs", "file", "filesystem"]
 
 [dependencies]
 rand = "0.3"
+remove_dir_all = "0.1"
+
