@@ -18,5 +18,4 @@ keywords = ["fs", "file", "filesystem"]
 
 [dependencies]
 rand = "0.3"
-remove_dir_all = "0.1"
-
+remove_dir_all = { git = "https://github.com/pwoolcoc/remove_dir_all", branch = "fix-build-on-linux" }
